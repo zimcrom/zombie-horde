@@ -1,4 +1,4 @@
-# Basic Roguelike
+# Zombie Horde
 *A small game made using Javascript under the guidance of [Morgan Page](https://github.com/morganpage)*
 
 ---
